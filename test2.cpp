@@ -18,15 +18,14 @@ int main(void)
     printf("------------------------------- \n");
     printf("The subtraction of x and y is: %d \n", sub);
     printf("------------------------------- \n");
-    printf("The mult of x and y is: %d \n", mult);
+    printf("The multiplication of x and y is: %d \n", mult);
     printf("------------------------------- \n");
     printf("The division of x and y is: %.2f \n", division);
     printf("------------------------------- \n");
-    printf("The Incomplete Division of x and y is: %d \n", incompleteDivision);
+    printf("The Incomplete Division of x and y is: %.2f \n", incompleteDivision);
     printf("------------------------------- \n");
     printf("The Incomplete Division 2 of x and y is: %d \n", incompleteDivision2);
     printf("------------------------------- \n");
 
-    system("Pause");
     return 0;
 }
